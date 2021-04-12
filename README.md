@@ -1,3 +1,3 @@
-# tic-tac-toc-in-python
-tic tac toc game 
+# tic-tac-toe-in-python
+tic tac toe game 
 ![gameplay](image/tictactoe.gif)
